@@ -32,6 +32,7 @@ import {
   prompt,
   redirect,
   user,
+  zenarate,
 } from "../assets";
 
 export const navLinks = [
@@ -125,7 +126,7 @@ const experiences = [
     company_name: "HashStudioz Technologies",
     icon: hash,
     iconBg: "#383E56",
-    date: "Feb 2021 - Till now",
+    date: "Feb 2021 - Dec 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -133,19 +134,19 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  // {
-  //   title: "React Native Developer",
-  //   company_name: "Tesla",
-  //   icon: tesla,
-  //   iconBg: "#E6DEDD",
-  //   date: "Jan 2021 - Feb 2022",
-  //   points: [
-  //     "Developing and maintaining web applications using React.js and other related technologies.",
-  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-  //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Participating in code reviews and providing constructive feedback to other developers.",
-  //   ],
-  // },
+  {
+    title: "Software Engineer 2",
+    company_name: "Zenarate",
+    icon: zenarate,
+    iconBg: "#E6DEDD",
+    date: "Jan 2024 - Till Now",
+    points: [
+      "Spearheading the development and upkeep of dynamic web applications leveraging React.js and associated technologies.",
+      "Fostering synergy within diverse teams, including designers, product managers, and fellow developers, to deliver top-tier products.",
+      "Enforcing responsive design principles and verifying seamless performance across various browsers for optimal user experience.",
+      "Actively engaging in code reviews, offering insightful critiques, and nurturing a collaborative development environment.",
+    ],
+  },
   // {
   //   title: "Web Developer",
   //   company_name: "Shopify",

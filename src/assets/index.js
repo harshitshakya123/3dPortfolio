@@ -29,6 +29,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import hash from "./company/hash.png";
+import zenarate from "./company/zenarate.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -68,6 +69,7 @@ export {
   starbucks,
   tesla,
   hash,
+  zenarate,
   bitbucket,
   carrent,
   jobit,
